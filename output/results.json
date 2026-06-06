@@ -1,0 +1,38 @@
+[
+    {
+        "file_name": "191115_Revised_A_Level_R5.pdf",
+        "category": "Resume",
+        "confidence_score": 0.17,
+        "status": "Success"
+    },
+    {
+        "file_name": "CV_2026042913095939.pdf",
+        "category": "Resume",
+        "confidence_score": 0.22,
+        "status": "Success"
+    },
+    {
+        "file_name": "invoice2099152628988223166.pdf",
+        "category": "Invoice",
+        "confidence_score": 0.22,
+        "status": "Success"
+    },
+    {
+        "file_name": "ml book.pdf",
+        "category": "Resume",
+        "confidence_score": 0.16,
+        "status": "Success"
+    },
+    {
+        "file_name": "TTI_Report.pdf",
+        "category": "Medical Report",
+        "confidence_score": 0.23,
+        "status": "Success"
+    },
+    {
+        "file_name": "Your Bill.pdf",
+        "category": "Invoice",
+        "confidence_score": 0.33,
+        "status": "Success"
+    }
+]

@@ -1,0 +1,8 @@
+
+pdfplumber
+PyPDF2
+pandas
+nltk
+scikit-learn
+joblib
+reportlab
