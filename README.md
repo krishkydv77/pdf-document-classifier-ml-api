@@ -1,47 +1,42 @@
+# 📄 PDF Document Classifier ML API
 
-# ML Based PDF Document Classifier
+An intelligent Machine Learning-based PDF document classification system built using Python, NLP, Scikit-learn, and Flask REST API.
 
-## Features
-- PDF Text Extraction
-- NLP Text Preprocessing
-- TF-IDF Feature Extraction
-- Machine Learning Classification
-- Confidence Score
-- CSV + JSON Output
-- Error Logging
+The application extracts text from uploaded PDF files, preprocesses the content using NLP techniques, transforms text using TF-IDF vectorization, and predicts document categories using a trained ML model.
 
-## Technologies
+---
+
+# 🚀 Features
+
+- Upload PDF files through REST API
+- Automatic PDF text extraction
+- NLP text preprocessing
+- TF-IDF feature extraction
+- Machine Learning-based classification ()
+- Confidence score prediction
+- JSON API responses
+- Flask backend integration
+- Postman API testing support
+
+---
+
+# 🛠️ Tech Stack
+
 - Python
 - pdfplumber
-- NLTK
+- -joblib
+- Flask
 - Scikit-learn
-- TF-IDF
+- Pandas
+- NLTK
+- TF-IDF Vectorizer
+- Pickle
+- Postman
 - Naive Bayes
 
-## Installation
+---
 
-pip install -r requirements.txt
 
-## Train ML Model
-
-python train_model.py
-
-## Run Project
-
-python main.py
-
-## Output
-
-Results stored in:
-- output/results.csv
-- output/results.json
-
-## Categories
-- Invoice
-- Contract
-- Bank Statement
-- Resume
-- Report
 
 
 # file step:-
